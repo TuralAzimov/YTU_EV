@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">YTU_EV</string>
+    <string name="login">Giriş</string>
+    <string name="mail">Mail</string>
+    <string name="password">Şifre</string>
+    <string name="enter">Giriş yap</string>
+    <string name="register_click">Kayıt ol</string>
+    <string name="change_password">Şifre değiştir</string>
+    <string name="registration">Kayıt</string>
+    <string name="login_click">Giriş yap</string>
+    <string name="register">Kayıt ol</string>
+    <string name="pagman">pagman</string>
+    <string name="send_mail">Mail gönder</string>
+    <string name="log_out">Çıkış yap</string>
+    <string name="profile">Kullanıcı profili</string>
+    <string name="student_profile">Öğrenci Profili</string>
+    <string name="name">İsim</string>
+    <string name="surname">Soyisim</string>
+    <string name="education_info">Bölüm / Sınıf</string>
+    <string name="room">Oda arıyor</string>
+    <string name="roommate">Oda arkadaşı arıyor</string>
+    <string name="no_interest">Aramıyor</string>
+    <string name="distance_uni">Kampüse olan uzaklık (KM)</string>
+    <string name="zero">0</string>
+    <string name="fifty">50</string>
+    <string name="time_wished">İstenen süre (AY)</string>
+    <string name="fortyeight">48</string>
+    <string name="phone">Telefon numarası</string>
+    <string name="contact_mail">Mail adresi</string>
+    <string name="contact_info">İletişim Bilgileri</string>
+    <string name="profile_picture"> </string>
+    <string name="select_picture">Foroğraf Seç </string>
+    <string name="btn_profile">Bilgileri Kaydet</string>
+    <string name="logout">Çıkış Yap</string>
+</resources>

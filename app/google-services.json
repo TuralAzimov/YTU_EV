@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139296284201",
+    "firebase_url": "https://ytu-ev-80883-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ytu-ev-80883",
+    "storage_bucket": "ytu-ev-80883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139296284201:android:a6b11fd295145bd018c638",
+        "android_client_info": {
+          "package_name": "com.example.ytu_ev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139296284201-qmpsq5700p07etvd7okrnqrsh4nljcvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCdaHaRqEVmSvxQ1RC-4W_T3-jgSGYH2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139296284201-qmpsq5700p07etvd7okrnqrsh4nljcvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
